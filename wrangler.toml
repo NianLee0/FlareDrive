@@ -1,3 +1,0 @@
-# wrangler.toml
-name = "dav"
-pages_build_output_dir = "build"
